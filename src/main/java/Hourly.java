@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
  * This class represents the object for weather in 3 hour
  * intervals
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class Hourly extends ADO implements java.io.Serializable {
 

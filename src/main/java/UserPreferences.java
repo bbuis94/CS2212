@@ -6,7 +6,7 @@
  * UserPreferences represents the strings that describe the user's preferences
  * Help to update the display accordingly. 
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class UserPreferences {
     

@@ -1,0 +1,11 @@
+
+*.class
+*.ser
+*.form
+*.java~
+
+/bin/
+/GUI/
+/nbproject/private/
+/build/
+/target/

@@ -5,7 +5,7 @@
  * NoConnectionException.java
  * This class handles the exception thrown when the application fails to connect to the API.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class NoConnectionException extends Exception {
 

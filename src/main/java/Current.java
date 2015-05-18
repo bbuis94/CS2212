@@ -11,7 +11,7 @@ import java.util.GregorianCalendar;
  * all variables from the super class, it stores the date and time it was
  * created, as well as the time of sunrise and sunset of the day.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class Current extends ADO implements java.io.Serializable {
 

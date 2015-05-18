@@ -7,7 +7,7 @@ import javax.swing.ImageIcon;
  * This class represents the weather object for Mars and contains
  * all methods contained within the ADO class
  * 
- * @author team6 
+ * @author Bill Buis
  */
 public class Mars extends ADO {
 	/**

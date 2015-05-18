@@ -6,7 +6,7 @@
  * This class contains all parameters and methods required for a long term
  * forecast. It consists of an array of Daily objects.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class LongTerm implements java.io.Serializable {
 

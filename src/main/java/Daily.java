@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
  * objects. In addition to all variables from the super class, it stores a
  * string of the day the object corresponds to.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class Daily extends ADO implements java.io.Serializable {
 

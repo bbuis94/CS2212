@@ -5,7 +5,7 @@
  * BadLocationException.java
  * This class handles the exception thrown when an invalid location is entered
  * 
- * @author team6 
+ * @author Bill Buis
  */
 public class BadLocationException extends Exception {
 	public BadLocationException(String arg0) {

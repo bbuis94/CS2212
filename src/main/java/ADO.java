@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
  * The superclass that contains all variables and methods common to all data
  * objects.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class ADO implements java.io.Serializable {
 

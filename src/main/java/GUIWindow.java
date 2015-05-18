@@ -6,7 +6,7 @@
  * A program that fetches weather data based on the OpenWeatherMapAPI.
  * Contains all the data objects as attributes.
  * 
- * @author team6
+ * @author Bill Buis
  */
 
 import java.awt.Dimension;

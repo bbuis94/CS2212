@@ -5,7 +5,7 @@
  * InternalServerError.java
  * This class handles the exception thrown when there is an internal server error.
  * 
- * @author team6
+ * @author Bill Buis
  */
 
 public class InternalServerError extends Exception {

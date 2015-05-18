@@ -9,7 +9,7 @@
  * Also uses the MAAS API to fetch data from the rover on Mars, for the Mars
  * weather information.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class Main {
 

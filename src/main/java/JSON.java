@@ -14,7 +14,7 @@ import org.json.JSONArray;
  * JSON.java
  * This class is responsible for querying the OpenWeatherMap API and saving all required data.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class JSON {
 //	private String url = "http://api.openweathermap.org/data/2.5/forecast?q=london,ca&cnt=7";

@@ -6,7 +6,7 @@
  * This class contains all parameters and methods required for a shortTerm
  * forecast. It consists of an eight element array of Hourly objects.
  * 
- * @author team6
+ * @author Bill Buis
  */
 public class ShortTerm implements java.io.Serializable {
 
