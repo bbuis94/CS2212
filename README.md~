@@ -41,7 +41,7 @@ Dependencies:
 
 To build:
 - git clone git@github.com:bbuis94/CS2212.git
-- cd team6/
+- cd CS2212/
 - mvn package
 
 ## Usage Example
