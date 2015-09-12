@@ -28,8 +28,8 @@ Installation requires the following components and configurations:
 - [Java](https://www.java.com/en/)
 
 Once these are set up, you can use the following command for The Weather:
-- git clone git@github.com:bbuis94/CS2212.git
-- cd CS2212/
+- git@github.com:bbuis94/Weather-Application.git
+- cd "Weather Application"/
 - java -jar target/6_TheWeather-1.0-jar-with-dependencies.jar 
 
 ## Build
