@@ -28,8 +28,8 @@ Installation requires the following components and configurations:
 - [Java](https://www.java.com/en/)
 
 Once these are set up, you can use the following command for The Weather:
-- git clone git@github.com:bbuis94/Weather-Application.git
-- cd Weather-Application/
+- Download zip folder and extract its contents
+- cd Weather-Application-master/
 - java -jar target/6_TheWeather-1.0-jar-with-dependencies.jar 
 
 ## Build
@@ -40,8 +40,7 @@ Dependencies:
 
 
 To build:
-- git clone git@github.com:bbuis94/Weather-Application.git
-- cd Weather-Application/
+- cd Weather-Application-master/
 - mvn package
 
 ## Usage Example
